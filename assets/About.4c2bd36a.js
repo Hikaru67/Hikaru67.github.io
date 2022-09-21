@@ -1,0 +1,1 @@
+import{o as e,i as t,l as s}from"./vendor.20975960.js";const r={},n={class:"h-screen w-screen flex justify-center items-center"},c=[s("h1",{class:"uppercase font-light text-2xl text-green-500"},"About page",-1)];r.render=function(s,r){return e(),t("section",n,c)};export{r as default};
